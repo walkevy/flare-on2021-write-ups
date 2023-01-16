@@ -1,0 +1,3 @@
+opened index.html file in vscode
+found if statement that tests what the username and password are in line 130
+Switched the if statement to be negation to show when it isn't to be true and give flag 
